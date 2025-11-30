@@ -1,0 +1,2 @@
+Individual Section = https://github.com/AntoineFoudy/Individual-Section-Group-U-Antoine-Foudy
+Group Section = https://github.com/AntoineFoudy/OOP-Group-U
